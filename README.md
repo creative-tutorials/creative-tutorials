@@ -17,8 +17,8 @@ My name is Treasure Alekhojie, I'm a Full Stack Web Developer with <b>3years</b>
 
 ## My Skills
 
-- 🎨UI Designer
-- 👩‍💻Full Stack Web Developer
+- [x] 🎨UI Designer
+- [x] 👩‍💻Full Stack Web Developer
 
 <br />
 

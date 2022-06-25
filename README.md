@@ -1,7 +1,9 @@
 # Hi There 🙋‍♀️
 
+<img src="https://imgs.search.brave.com/6Hyt_Xvp2pFKPAasazseqFFifZ5dUU4wIM4zfq7-Cf4/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9ibG9n/LnJhcGlkYXBpLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ny8wMS9vY3RvY2F0/LmdpZg.gif" style="borderradius: 10px"></img>
 
-My name is Treasure Alekhojie, I'm a Full Stack Web Developer with <b>3years</b> of expirence. I create web sites, web apps with UI interface
+
+## My name is Treasure Alekhojie, I'm a Full Stack Web Developer with <b>3years</b> of expirence. I create web sites, web apps with UI interface
 
 <br />
 

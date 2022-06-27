@@ -1,42 +1,30 @@
-# Hi There 🙋‍♀️
+<h1 align="center">Hi 👋, I'm Treasure Alekhojie</h1>
+<h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
-<img src="https://imgs.search.brave.com/6Hyt_Xvp2pFKPAasazseqFFifZ5dUU4wIM4zfq7-Cf4/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9ibG9n/LnJhcGlkYXBpLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ny8wMS9vY3RvY2F0/LmdpZg.gif" style="borderradius: 10px"></img>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=creative-tutorials&label=Profile%20views&color=0e75b6&style=flat" alt="creative-tutorials" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creative-tutorials" alt="creative-tutorials" /></a> </p>
 
-### My name is Treasure Alekhojie, I'm a Full Stack Web Developer with <b>3years</b> of expirence. I create web sites, web apps with UI interface
+- 🔭 I’m currently working on [PrimeEx](https://github.com)
 
-<br />
+- 🌱 I’m currently learning **TailWindCSS**
 
-## Pouplar Projects 🎯
+- 👨‍💻 All of my projects are available at [https://github.com/creative-tutorials](https://github.com/creative-tutorials)
 
-<ol>
-  <li>NoteApp</li>
-  <li>Hotel Booking App</li>
-  <li>Todo App</li>
-  <li>ChatBot</li>
-</ol>
+- 💬 Ask me about **react,nodejs**
 
+- 📫 How to reach me **treasureedesemhen500@gmail.com**
 
-## My Skills
+- ⚡ Fun fact **I love solving problems**
 
-- [x] 🎨UI Designer
-- [x] 👩‍💻Full Stack Web Developer
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/treasure-alekhojie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="treasure-alekhojie" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/creativetutorialsweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="creativetutorialsweb" height="30" width="40" /></a>
+</p>
 
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=creative-tutorials&show_icons=true&locale=en&layout=compact" alt="creative-tutorials" /></p>
 
-## Skilled Technologies ⚡
-<a href="https://reactjs.org/docs/getting-started.html"><img src="https://www.svgrepo.com/show/354259/react.svg" width="30px"></img> </a>
-<a href="https://nodejs.org/en/docs/"><img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" width="30px"></img></a>
-<a href="https://firebase.google.com/"><img src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" width="30px"></img></a>
-<a href="https://www.php.net/"><img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" width="30px"></img></a>
-<a href="https://git-scm.com/"><img src="https://www.svgrepo.com/show/353778/git.svg" width="30px"></img></a>
-<a href="https://www.figma.com/"><img src="https://www.svgrepo.com/show/354987/figma.svg" width="30px"></img></a>
-<a href="https://sass-lang.com/"><img src="https://www.svgrepo.com/show/354310/sass.svg" width="30px"></img></a>
-<a href="https://getbootstrap.com/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="30px"></img></a>
-<a href="https://www.typescriptlang.org/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="30px"></img></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creative-tutorials&show_icons=true&locale=en" alt="creative-tutorials" /></p>
 
-# Most Used Languages🔥
-
-<img src="/GitHub Stack.png" alt="mystackimage"></img>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creative-tutorials&" alt="creative-tutorials" /></p>

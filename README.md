@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on Session Authentication
 
-- 🌱 I’m currently learning Data Science,
+- 🌱 I’m currently learning GraphQL,
 
 
 - 👯 I’m looking to collaborate on Backend Projects 

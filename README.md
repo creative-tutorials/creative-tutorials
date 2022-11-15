@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" alt="cover" />
+<img width="100%" height = "100%" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>

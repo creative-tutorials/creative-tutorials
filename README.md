@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="cover" />
+<img width="50%" height = "50%" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
@@ -8,21 +8,23 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=creative-tutorials.creative-tutorials) [![](https://visitcount.itsvg.in/api?id=creative-tutorials&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 </p>
-<div size='20px'> Hi! My name is Treasure Alekhojie. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Treasure Alekhojie. I'm a Full Stack Web Developer with 4years of experience. Thank You for taking the time to view my GitHub Profile :wink: 
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<div>
+<h2> About Me </h2>
+</div>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Hashtag - Brand new social media platform
+- 🏗️ I’m currently working on [Hashtag](https://github.com/creative-tutorials/hashtag) - Brand new social media platform
 
-- 🌱 I’m currently learning Server & Serverless  
+- 🌱 I’m currently learning New things everyday.  
 
-- 👯 I’m looking to collaborate on open source projects 
+- 🔎 I'm searching for new technologies and job opprotunities. 
 
-- 💬 Talk to me about JavaScript,  Open Source, GitHub, Programming 
+- 💬 I'm always open for conversation & questions related to programming. 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/creative-tutorials?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -34,10 +36,10 @@
 <a href= https://github.com/creative-tutorials?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href= https://github.com/creative-tutorials?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
 <a href= https://github.com/creative-tutorials?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/creative-tutorials?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
+<a href= https://github.com/creative-tutorials?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' height='32px' src ='https://user-images.githubusercontent.com/68476321/203548158-dc65981d-637b-4757-b3df-3995d8a8a6d8.png'> </a>
 <a href= https://github.com/creative-tutorials?tab=repositories&q=&type=&language=stack-overflow&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/stack-overflow.svg'> </a>
 <a href= https://github.com/creative-tutorials?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
-<a href= https://github.com/creative-tutorials?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
+<a href= https://github.com/creative-tutorials?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://user-images.githubusercontent.com/68476321/203549071-5311c679-6bc2-4e84-831f-a5f8ece00733.png'> </a>
 <a href= https://github.com/creative-tutorials?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href= https://github.com/creative-tutorials?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
 <a href= https://github.com/creative-tutorials?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>

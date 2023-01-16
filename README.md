@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Full Stack Web Dev
 ------------------------
 
-Hello World. I'm a Full Stack Web Developer and I've been in the web industry for about 5years now. I've been learning on how to improve my self while building projects. By watching videos and taking courses, I think I've learnt so much.
+Greetings! I am a Full Stack Web Developer with five years of experience in the web industry. I am continuously honing my skills and pushing the boundaries of my knowledge by engaging in meaningful projects, watching instructional videos and taking courses. I am passionate about the web and remain committed to learning and growing in order to reach my fullest potential.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [info.techtimi@gmail.com](mailto:info.techtimi@gmail.com)

@@ -9,7 +9,7 @@ Greetings! I am a Full Stack Web Developer with five years of experience in the 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [info.techtimi@gmail.com](mailto:info.techtimi@gmail.com)
 * 🚀  I'm currently working on [Shopercase](http://github.com/creative-tutorials/shopercase)
-* 🧠  I'm learning Remix
+* 🧠  I'm learning DSA
 * ⚡  I'm secretly achiever obsessed
 
 <a href="https://www.github.com/creative-tutorials" target="_blank" rel="noreferrer"><img

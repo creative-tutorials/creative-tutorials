@@ -1,5 +1,11 @@
+<div class="container" style="background: red; padding: 10px;">
+
 # 💫 About Me:
 🔭 I’m currently working on Shopercase<br>👯 I’m looking to collaborate on Opensource projects<br>🤝 I’m looking for help with undefined<br>🌱 I’m currently learning D.S.A<br>💬 Ask me about JavaScript<br>⚡ Fun fact I dream code
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/creative-tutorials/creative-tutorials/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
+</div>
 
 
 ## 🌐 Socials:
@@ -20,6 +26,6 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/labtimi01) 
-
+  
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

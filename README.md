@@ -24,6 +24,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=creative-tutorials&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### DevCard
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/creative-tutorials/creative-tutorials/blob/main/devcard.svg" width="200" alt="Treasure Dev Card"/></a>
+
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=creative-tutorials&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
 

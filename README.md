@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Shopercase<br>👯 I’m looking to collaborate on Opensource projects<br>🤝 I’m looking for help with undefined<br>🌱 I’m currently learning AI and AI models<br>💬 Ask me about Typescript<br>⚡ Fun fact I undefined undefined
+🔭 I’m currently working on Resubase<br>👯 I’m looking to collaborate on Opensource projects<br>🤝 I’m looking for help with undefined<br>🌱 I’m currently learning AI and AI models<br>💬 Ask me about Typescript<br>⚡ Fun fact I undefined undefined
 
 
 ## 🌐 Socials:

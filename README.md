@@ -18,4 +18,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=creative-tutorials&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+### 👩‍💻 DevCard
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/creative-tutorials/creative-tutorials/blob/main/devcard.svg" width="200" alt="Treasure Dev Card"/></a>
+
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐱‍🚀 My name is Timi.<br>💻 I'm building Resubase.<br>📚 I keep practicing, and learning new things.<br>👷‍♂️ Fun Fact: Building projects while learning works better.<br>🐱‍💻 Here's a secret: You can learn to code, just start.
+🐱‍🚀 My name is Timi.<br>💻 I'm building StashBlob.<br>📚 I keep practicing, and learning new things.<br>👷‍♂️ Fun Fact: Building projects while learning works better.<br>🐱‍💻 Here's a secret: You can learn to code, just start.
 
 
 ## 🌐 Socials:

@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Timi
 
 - designer/developer
-- building [@stashblob](https://stashblobweb.vercel.app/)
+- building [@stashblob](https://stashblobweb.vercel.app/) and [@wishme](https://app-wishme.vercel.app/)
 - I tweet on React and Next.js
 - I'm passionate about the web
 

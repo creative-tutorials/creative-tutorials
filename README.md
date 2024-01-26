@@ -3,7 +3,7 @@
 - designer/developer
 - building [@magic](https://magic-xyz.vercel.app/)
 - I'm passionate about the web
-- Oh! And did I forget to mention I'm on Twitter
+- Oh! And did I forget to mention I know where you live
 
 
 

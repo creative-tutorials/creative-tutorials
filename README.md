@@ -16,7 +16,7 @@
 
 
 # Passionate about:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-%23000000?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react) ![Next JS](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js) ![Supabase](https://img.shields.io/badge/Supabase-%23000000?style=for-the-badge&logo=supabase)
 # Stats:
 ![](https://github-readme-stats.vercel.app/api?username=creative-tutorials&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 

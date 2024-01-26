@@ -2,8 +2,8 @@
 
 - designer/developer
 - building [@stashblob](https://stashblobweb.vercel.app/) and [@wishme](https://app-wishme.vercel.app/)
-- I tweet on React and Next.js
 - I'm passionate about the web
+- Oh! And did I forget to mention I'm on Twitter
 
 
 

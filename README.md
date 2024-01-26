@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Timi
 
 - designer/developer
-- building [@stashblob](https://stashblobweb.vercel.app/) and [@wishme](https://app-wishme.vercel.app/)
+- [@magic](https://magic-xyz.vercel.app/)
 - I'm passionate about the web
 - Oh! And did I forget to mention I'm on Twitter
 

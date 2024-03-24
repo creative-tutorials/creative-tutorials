@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Timi
 
 - designer/developer
-- building [@magic](https://magic-xyz.vercel.app/)
+- currently thinking of a new project idea 💡
 - I'm passionate about the web
 - Oh! And did I forget to mention I know where you live
 

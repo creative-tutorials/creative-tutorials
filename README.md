@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Timi
 
 - designer/developer
-- currently thinking of a new project idea 💡
+- software engineer
 - I'm passionate about the web
 - Oh! And I love Typescript
 
@@ -18,7 +18,7 @@
 
 # Tech Stack:
 
-## Database
+## Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb) ![Supabase](https://img.shields.io/badge/Supabase-%23000000?style=for-the-badge&logo=supabase) ![Xata](https://img.shields.io/badge/Xata-%23000000?style=for-the-badge&logo=xata)
 
 ## Languages

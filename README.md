@@ -7,6 +7,8 @@
 
 
 
+
+
 ## Socials:
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/timi_networks?style=for-the-badge&logo=x&labelColor=black&link=https%3A%2F%2Ftwitter.com%2Ftimi_networks)](https://twitter.com/timi_networks) [![LinkedIn follow](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftreasure-alekhojie%2F)](https://www.linkedin.com/in/treasure-alekhojie/)
@@ -15,26 +17,26 @@
 
 
 
-
 # Tech Stack:
 
-## Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb) ![Supabase](https://img.shields.io/badge/Supabase-%23000000?style=for-the-badge&logo=supabase) ![Xata](https://img.shields.io/badge/Xata-%23000000?style=for-the-badge&logo=xata)
 
-## Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-%23000000?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=python)
 
-## Designs
+### Designs
 ![css](https://img.shields.io/badge/css-%23000000?style=for-the-badge&logo=css3) ![Figma](https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=figma) ![PhotShop](https://img.shields.io/badge/Photoshop-%23000000?style=for-the-badge&logo=adobe-photoshop)
 
-## Frameworks/Libraries
+### Frameworks/Libraries
 ![React](https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js) ![Astro](https://img.shields.io/badge/Astro-%23000000?style=for-the-badge&logo=astro) ![Tailwind](https://img.shields.io/badge/Tailwind-%23000000?style=for-the-badge&logo=tailwindcss) ![React-Query](https://img.shields.io/badge/React-Query-%23000000?style=for-the-badge&logo=react-query)
 
-## JavaScript Runtimes
+### JavaScript Runtimes
 ![Node.js](https://img.shields.io/badge/Node.js-%23000000?style=for-the-badge&logo=node.js) ![Bun](https://img.shields.io/badge/Bun-%23000000?style=for-the-badge&logo=bun)
 
-## Others
+### Others
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23000000?style=for-the-badge&logo=ffmpeg) ![premierepro](https://img.shields.io/badge/PremierPro-%23000000?style=for-the-badge&logo=adobe-premiere-pro)
+
 
 
 
@@ -60,6 +62,24 @@
 
    - Cloud Storage application. Stashblob is a cloud storage that allows you to upload and share files.
    - Tech: Next.js, Supabase, MongoDB, Tailwind.
+
+
+
+
+# Education
+
+### Miva Open Univiersity
+_September 2019_ - _September 2023_  
+
+**Course**: CyberSecurity (Bachelor of Science)
+
+
+
+
+# Contact
+  - Email: [me@timi](mailto:hellotimi@proton.me)
+  - Website: [timidev](https://timidev.vercel.app)
+  - Twitter: [TimiNetwork](https://x.com/timi_networks)
 
 
 <!-- Changes regularly --> 

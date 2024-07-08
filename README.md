@@ -35,7 +35,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23000000?style=for-the-badge&logo=node.js) ![Bun](https://img.shields.io/badge/Bun-%23000000?style=for-the-badge&logo=bun)
 
 ### Others
-![FFmpeg](https://img.shields.io/badge/FFmpeg-%23000000?style=for-the-badge&logo=ffmpeg) ![premierepro](https://img.shields.io/badge/PremierPro-%23000000?style=for-the-badge&logo=adobe-premiere-pro)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-%23000000?style=for-the-badge&logo=ffmpeg) ![premierepro](https://img.shields.io/badge/PremierPro-%23000000?style=for-the-badge&logo=adobe-premiere-pro) ![capcut](https://img.shields.io/badge/Capcut-%23000000?style=for-the-badge&logo=JianYing)
 
 
 

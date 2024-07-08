@@ -51,7 +51,7 @@
    - Fast search engine for data, group search is a snappy search engine for a list of groups within a group location
    - Tech: JavaScript, TypeScript, React, Next.js, Tailwind.
 
-3. [magic]((https://github.com/creative-tutorials/magic)
+3. [magic](https://github.com/creative-tutorials/magic)
 
    - A magic place to search for Saas products or other helpful software created by amazing people.
    - Tech: Next.js, Typescript, Tailwind.

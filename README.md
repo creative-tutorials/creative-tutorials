@@ -22,7 +22,7 @@
 # Tech Stack:
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb) ![Supabase](https://img.shields.io/badge/Supabase-%23000000?style=for-the-badge&logo=supabase) ![Xata](https://img.shields.io/badge/Xata-%23000000?style=for-the-badge&logo=xata-logo)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb) ![Supabase](https://img.shields.io/badge/Supabase-%23000000?style=for-the-badge&logo=supabase) ![Postgresql](https://img.shields.io/badge/Postgres-%23000000?style=for-the-badge&logo=postgresql) ![Xata](https://img.shields.io/badge/Xata-%23000000?style=for-the-badge&logo=xata-logo)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-%23000000?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=python)

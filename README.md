@@ -81,7 +81,7 @@ _September 2019_ - _September 2023_
 # Contact
   - Email: [me@timi](mailto:hellotimi@proton.me)
   - Website: [timidev](https://timidev.vercel.app)
-  - Twitter: [TimiNetwork](https://x.com/timi_networks)
+  - X [formerly twitter]: [@timi_networks](https://x.com/timi_networks)
 
 
 <!-- Changes regularly --> 

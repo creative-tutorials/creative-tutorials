@@ -22,7 +22,7 @@
 # Tech Stack:
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb) ![Supabase](https://img.shields.io/badge/Supabase-%23000000?style=for-the-badge&logo=supabase) ![Xata](https://img.shields.io/badge/Xata-%23000000?style=for-the-badge&logo=xata)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb) ![Supabase](https://img.shields.io/badge/Supabase-%23000000?style=for-the-badge&logo=supabase) ![Xata](https://img.shields.io/badge/Xata-%23000000?style=for-the-badge&logo=xata-logo)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-%23000000?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=python)
@@ -37,7 +37,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23000000?style=for-the-badge&logo=node.js) ![Bun](https://img.shields.io/badge/Bun-%23000000?style=for-the-badge&logo=bun)
 
 ### Others
-![FFmpeg](https://img.shields.io/badge/FFmpeg-%23000000?style=for-the-badge&logo=ffmpeg) ![premierepro](https://img.shields.io/badge/PremierPro-%23000000?style=for-the-badge&logo=adobe-premiere-pro) ![capcut](https://img.shields.io/badge/Capcut-%23000000?style=for-the-badge&logo=JianYing)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-%23000000?style=for-the-badge&logo=ffmpeg) ![premierepro](https://img.shields.io/badge/PremierPro-%23000000?style=for-the-badge&logo=adobe-premiere-pro) ![CapCut](https://img.shields.io/badge/CapCut-%23000000?style=for-the-badge&logo=capcut-logo)
 
 
 

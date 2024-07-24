@@ -11,7 +11,9 @@
 
 ## Socials:
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/timi_networks?style=for-the-badge&logo=x&labelColor=black&link=https%3A%2F%2Ftwitter.com%2Ftimi_networks)](https://twitter.com/timi_networks) [![LinkedIn follow](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftreasure-alekhojie%2F)](https://www.linkedin.com/in/treasure-alekhojie/)
+[![X follow](https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x&labelColor=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftreasure-alekhojie%2F)](https://www.linkedin.com/in/treasure-alekhojie/) [![LinkedIn follow](https://img.shields.io/badge/LinkedIn-Follow-black?style=for-the-badge&logo=linkedin&labelColor=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftimidev%2F)](https://www.linkedin.com/in/timidev/) 
+
+
 
 
 

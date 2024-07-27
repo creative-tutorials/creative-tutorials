@@ -3,7 +3,8 @@
 - designer/developer
 - software engineer
 - I'm passionate about the web
-- Oh! And I love Typescript
+- I love Typescript
+- Creator of the [@expresstype](github.com/creative-tutorials/expresstype.v2) repo
 
 
 

@@ -4,7 +4,7 @@
 - software engineer
 - I'm passionate about the web
 - I love Typescript
-- Creator of the [@expresstype](github.com/creative-tutorials/expresstype.v2) repo
+- Creator of the [expresstype](https://github.com/creative-tutorials/expresstype.v2) repo
 
 
 

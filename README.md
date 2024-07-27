@@ -48,8 +48,8 @@
 
 1. [expresstype](https://github.com/creative-tutorials/expresstype.v2)
 
-  - Simple REST API using Express.js and Typescript
-  - Tech: Bun, Express, Typescript.
+    - Simple REST API using Express.js and Typescript
+    - Tech: Bun, Express, Typescript.
 
 2. [group search](https://github.com/creative-tutorials/group-search)
 
